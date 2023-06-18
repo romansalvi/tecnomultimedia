@@ -1,6 +1,7 @@
 //Román Salvi
 //Comisión 2
 //tp2
+//VIDEO: https://youtu.be/ARXfCcU5uzo
 
 PImage ilu;
 float bg;
